@@ -1,2 +1,2 @@
 # MachineLearning
-Stanford University , Machine Learning course in Coursera ,programming exercise written in Matlab.
+ Machine Learning course in Coursera by Stanford University , programming exercise with Matlab. 
